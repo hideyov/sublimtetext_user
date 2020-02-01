@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Codecs33",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Emmet",
+		"JavaScript Console",
+		"Open URL",
+		"Package Control",
+		"Sublimerge Pro",
+		"Vintageous"
+	]
+}

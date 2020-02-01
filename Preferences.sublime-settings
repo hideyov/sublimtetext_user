@@ -1,0 +1,10 @@
+{
+	"font_size": 16,
+	"ignored_packages":
+	[
+	],
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true,
+	"vintageous_reset_mode_when_switching_tabs": false,
+	"vintageous_use_ctrl_keys": true
+}

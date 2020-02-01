@@ -1,0 +1,21 @@
+[
+	//	{ "keys": ["super+alt+n"], "command": "move", "args": {"by": "lines", "forward": true} },
+	// 行の先頭へ移動 (Cmd + A)
+	//	{ "keys": ["super+a"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+	// 行の末尾へ移動 (Cmd + F1)
+	//	{ "keys": ["super+f1"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+
+	// 行の先頭へ移動："ctrl+a"
+	// 右移動："ctrl+f"　左移動："ctrl+b"
+	// 上移動："ctrl+p"　下移動："ctrl+n"
+
+	// 上記設定により上書きされたコマンドを、cmd + opt で復活させる
+	// 全選択 (Cmd + opt + A)
+	//	{ "keys": ["super+alt+a"], "command": "select_all"},
+
+	// 検索して置換をwindowsに合わせる //
+	{ "keys": ["super+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+	{ "keys": ["super+shift+h"], "command": "replace_next" },
+	{ "keys": ["f3"], "command": "find_next" },
+	{ "keys": ["shift+f3"], "command": "find_prev" }
+]
